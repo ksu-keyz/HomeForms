@@ -32,7 +32,7 @@ namespace HomeForms
             form2.Show();
             this.Hide();
         }
-
+        //jljxfj;fhxjfhxjpfhpjfhxjofhxjh changes
         // Викликається з Form3 при "Оформити нове замовлення"
         public void ResetForm()
         {
